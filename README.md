@@ -1,12 +1,13 @@
 # Борис Стасев
 
-Инженер-программист из Гомеля. Ищу работу **системным администратором / инженером инфраструктуры**.
-Пишу бэкенд и автоматизацию, собираю всё в Docker, люблю, когда сервисы поднимаются одной командой.
+Гомель · ГГТУ им. П. О. Сухого, 4 курс, «Информационные системы и технологии» (инженер-программист).
+
+Рассматриваю позиции: **инженер-программист** · **DevOps-инженер** · **системный администратор** · **ML / AI-инженер** (обучение и внедрение моделей).
 
 **Стек:**
-`Linux` `Windows Server` `Docker / Compose` `nginx` `PowerShell` `Bash` `Git / GitHub Actions` ·
-`Python (FastAPI, Django, aiogram)` `C# / .NET` `Node.js` `SQL (PostgreSQL, MySQL, SQLite)` ·
-`PyTorch / YOLO` `Kotlin / Android` `C для STM32`
+- Разработка: `Python (FastAPI, Django, aiogram)` `C# / .NET` `Node.js` `Kotlin / Android` `SQL (PostgreSQL, MySQL, SQLite)` `C для STM32`
+- DevOps и администрирование: `Linux` `Windows Server` `Docker / Compose` `nginx` `Caddy` `systemd` `Bash` `PowerShell` `Git / GitHub Actions`
+- ML и ИИ: `PyTorch` `YOLO` `ONNX Runtime` `scikit-learn` `ROCm` `LLM API`
 
 ## Проекты
 
