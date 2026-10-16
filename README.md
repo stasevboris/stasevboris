@@ -13,6 +13,7 @@
 | Проект | О чём | Технологии |
 |---|---|---|
 | [agrovoice-ai](https://github.com/stasevboris/agrovoice-ai) | Офлайн-диагностика болезней растений на Android с голосовым управлением и пайплайном обучения детекторов | Kotlin, CameraX, ONNX Runtime, Vosk, PyTorch, ROCm |
+| [Портал компетенций](https://github.com/stasevboris/Internal-Competency-and-Schedule-Management-Portal) | Командный проект: матрица компетенций и бронирование переговорных, dev/prod-окружения в Docker; около 105 из 129 коммитов мои | FastAPI, PostgreSQL, React + TS, Docker Compose, nginx |
 | [VoltPlan](https://github.com/stasevboris/VoltPlan_heretofore_LineCapacity/tree/VoltPlan) | Командный веб-проект: схемы электросетей 0,4 кВ, расчёт режимов по сценариям, автотесты | FastAPI, NumPy, SciPy, JS, pytest |
 | [distributed-rank](https://github.com/stasevboris/distributed-rank) | Распределённые вычисления: координатор и TCP-узлы в Linux-контейнерах и на Windows | C# .NET 8, TCP, Docker Compose |
 | [nodejs-corporate-is](https://github.com/stasevboris/nodejs-corporate-is) | Корпоративная ИС из 10 модулей и CLI-утилита `sysops` для автоматизации ОС | Node.js, Express, WebSocket |
