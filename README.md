@@ -1,31 +1,27 @@
-# Профиль разработчика
+# Борис Стасев
 
+Инженер-программист из Гомеля. Ищу работу **системным администратором / инженером инфраструктуры**.
+Пишу бэкенд и автоматизацию, собираю всё в Docker, люблю, когда сервисы поднимаются одной командой.
 
-## Навыки и технологии
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-</div>
+**Стек:**
+`Linux` `Windows Server` `Docker / Compose` `nginx` `PowerShell` `Bash` `Git / GitHub Actions` ·
+`Python (FastAPI, Django, aiogram)` `C# / .NET` `Node.js` `SQL (PostgreSQL, MySQL, SQLite)` ·
+`PyTorch / YOLO` `Kotlin / Android` `C для STM32`
 
-## Инструменты
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-</div>
+## Проекты
 
-
-
-## Достижения
-![Codewars Badge](https://www.codewars.com/users/prostasev/badges/large)
+| Проект | О чём | Технологии |
+|---|---|---|
+| [agrovoice-ai](https://github.com/stasevboris/agrovoice-ai) | Офлайн-диагностика болезней растений на Android с голосовым управлением и пайплайном обучения детекторов | Kotlin, CameraX, ONNX Runtime, Vosk, PyTorch, ROCm |
+| [VoltPlan](https://github.com/stasevboris/VoltPlan_heretofore_LineCapacity/tree/VoltPlan) | Командный веб-проект: схемы электросетей 0,4 кВ, расчёт режимов по сценариям, автотесты | FastAPI, NumPy, SciPy, JS, pytest |
+| [distributed-rank](https://github.com/stasevboris/distributed-rank) | Распределённые вычисления: координатор и TCP-узлы в Linux-контейнерах и на Windows | C# .NET 8, TCP, Docker Compose |
+| [nodejs-corporate-is](https://github.com/stasevboris/nodejs-corporate-is) | Корпоративная ИС из 10 модулей и CLI-утилита `sysops` для автоматизации ОС | Node.js, Express, WebSocket |
+| [telegram-request-bot](https://github.com/stasevboris/telegram-request-bot) | Бот приёма заявок: анкета, лимиты, Google Sheets, админка, Docker | aiogram 3, SQLite, Docker |
+| [Gemini_Accounts](https://github.com/stasevboris/Gemini_Accounts) | Локальный шлюз к моделям: аккаунты, квоты, API-ключи, подключение CLI-клиентов | Python, PySide6, CI, релизы |
+| [greenhouse-monitoring](https://github.com/stasevboris/greenhouse-monitoring) | Мониторинг теплиц: MVC и Web API, тесты, CI | ASP.NET Core, EF Core |
+| [ml-labs](https://github.com/stasevboris/ml-labs) | DETR vs YOLO, SRGAN, CIFAR-10 на ROCm, линейные модели, Монте-Карло | PyTorch, scikit-learn |
+| [stm32-drivers](https://github.com/stasevboris/stm32-drivers) | Драйверы GPIO, таймеров, тактирования и LCD1602 по I²C | C, CMSIS, Proteus |
 
 ## Контакты
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stasevboris)  
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:stasevboris0@gmail.com)
+
+[Telegram](https://t.me/stasevboris) · [stasevboris0@gmail.com](mailto:stasevboris0@gmail.com)
